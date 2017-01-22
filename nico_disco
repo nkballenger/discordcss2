@@ -1002,7 +1002,7 @@
            	*/
            	
            	.user-popout .header {
-                           	background: rgba(0,0,0,0.8); !important;
+                           	background: rgba(0,0,0,1); !important;
            	}
            	
            	.user-popout .avatar-wrapper .avatar-popout {
@@ -1011,13 +1011,13 @@
            	}
            	
            	.user-popout .body {
-                           	background:rgba(0,0,0,0.8);
+                           	background:rgba(0,0,0,1);
                            	border-left:1px solid rgba(255,255,255,0.2);
                            	border-right:1px solid rgba(255,255,255,0.2);
            	}
            	
            	.user-popout .footer {
-                           	background:rgba(0,0,0,0.8);
+                           	background:rgba(0,0,0,1);
            	   border-top:1px solid rgba(255,255,255,0.2);
            	   border-left:1px solid rgba(255,255,255,0.2);
                            	border-right:1px solid rgba(255,255,255,0.2);
